@@ -3,18 +3,18 @@
   <title>Li Ying</title>
   
   <subtitle>Personal Zone</subtitle>
-  <link href="https://wearingoureyes.github.io/project/atom.xml" rel="self"/>
+  <link href="https://wearingoureyes.github.io/atom.xml" rel="self"/>
   
-  <link href="https://wearingoureyes.github.io/project/"/>
+  <link href="https://wearingoureyes.github.io/"/>
   <updated>2022-04-21T16:02:46.697Z</updated>
-  <id>https://wearingoureyes.github.io/project/</id>
+  <id>https://wearingoureyes.github.io/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
     <title>立志整改好我的博客</title>
-    <link href="https://wearingoureyes.github.io/project/2022/04/20/%E6%88%91%E7%AB%8B%E5%BF%97%E6%95%B4%E6%94%B9%E5%A5%BD%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2!/"/>
-    <id>https://wearingoureyes.github.io/project/2022/04/20/%E6%88%91%E7%AB%8B%E5%BF%97%E6%95%B4%E6%94%B9%E5%A5%BD%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2!/</id>
+    <link href="https://wearingoureyes.github.io/2022/04/20/%E6%88%91%E7%AB%8B%E5%BF%97%E6%95%B4%E6%94%B9%E5%A5%BD%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2!/"/>
+    <id>https://wearingoureyes.github.io/2022/04/20/%E6%88%91%E7%AB%8B%E5%BF%97%E6%95%B4%E6%94%B9%E5%A5%BD%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2!/</id>
     <published>2022-04-20T14:43:42.000Z</published>
     <updated>2022-04-21T16:02:46.697Z</updated>
     
@@ -25,10 +25,10 @@
     
     
     
-    <category term="学习" scheme="https://wearingoureyes.github.io/project/categories/%E5%AD%A6%E4%B9%A0/"/>
+    <category term="学习" scheme="https://wearingoureyes.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
     
     
-    <category term="更新博客" scheme="https://wearingoureyes.github.io/project/tags/%E6%9B%B4%E6%96%B0%E5%8D%9A%E5%AE%A2/"/>
+    <category term="更新博客" scheme="https://wearingoureyes.github.io/tags/%E6%9B%B4%E6%96%B0%E5%8D%9A%E5%AE%A2/"/>
     
   </entry>
   
